@@ -1,1 +1,1 @@
-Infosys Springboard Internship
+Automated Responses
